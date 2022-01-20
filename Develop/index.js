@@ -34,7 +34,12 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Select a license to use for this project -',
-        choices: ['MIT', 'Apache', 'GPL']
+        choices: ['MIT', 'Apache', 'GPL', 'None']
+    },
+    {
+        type: 'input',
+        name: 'name',
+        message: 'Enter your name to be added to the license.'
     },
     {
         type: 'input',
@@ -74,7 +79,7 @@ function writeToFile(fileName, data) {
     })
 }
 
-writeToFile('./test-file.md', generateMarkdown(mockData));
+// writeToFile('./test-file.md', generateMarkdown(mockData));
 
 // TODO: Create a function to initialize app
 function init() {
