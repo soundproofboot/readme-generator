@@ -1,8 +1,8 @@
-# Popcorn
+# The Project
 
 ## Description
 
-It does things
+There's really a ton I could say about this project, it's very cool
 
 ## Table of Contents
 
@@ -19,20 +19,20 @@ It does things
 [Questions](#questions)
 
 ## Installation
-They use their computer
+They go to github and clone the code and then do other things
 
 ## Usage
-You just use it
+You run node index.js in the console, you will be prompted to provide information about your project, then a Markdown file will be created containing the information you provided
 
 ## License
 undefined
 
 ## Contributing
-Other people
+There are other people that deserve credit for this application. It uses the npm package inquirer
 
 ## Tests
-There are a lot
+There are no tests for this application
 
 ## Questions
-soundproofboot
-email@gmail.com
+You can check out my other projects on [GitHub](https://www.github.com/soundproofboot)
+Contact me at colinedwinbares@gmail.com for any further questions.
