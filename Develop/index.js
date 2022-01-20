@@ -5,57 +5,78 @@ const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 const questions = [
-    {
-        type: 'input',
-        name: 'title',
-        message: 'What is the title of your project?'
-    },
-    {
-        type: 'input',
-        name: 'description',
-        message: 'Give a description for your project.'
-    },
-    {
-        type: 'input',
-        name: 'installation',
-        message: 'How does the user install your application?'
-    },
-    {
-        type: 'input',
-        name: 'usage',
-        message: 'How do you use this application?'
-    },
-    {
-        type: 'input',
-        name: 'contributing',
-        message: 'Who/what would you like to credit for this application?'
-    },
-    {
-        type: 'list',
-        name: 'license',
-        message: 'Select a license to use for this project -',
-        choices: ['MIT', 'Apache', 'GPL', 'None']
-    },
-    {
-        type: 'input',
-        name: 'name',
-        message: 'Enter your name to be added to the license.'
-    },
-    {
-        type: 'input',
-        name: 'tests',
-        message: 'What tests do you provide for this application?'
-    },
-    {
-        type: 'input',
-        name: 'username',
-        message: 'What is your GitHub user name?'
-    },
-    {
-        type: 'input',
-        name: 'email',
-        message: 'What is your email address?'
+  {
+    type: "input",
+    name: "title",
+    message: "What is the title of your project?",
+  },
+  {
+    type: "input",
+    name: "description",
+    message: "Give a description for your project.",
+  },
+  {
+    type: "input",
+    name: "installation",
+    message: "How does the user install your application?",
+  },
+  {
+    type: "input",
+    name: "usage",
+    message: "How do you use this application?",
+  },
+  {
+    type: "input",
+    name: "contributing",
+    message: "Who/what would you like to credit for this application?",
+  },
+  {
+    type: "input",
+    name: "tests",
+    message: "What tests do you provide for this application?",
+  },
+  {
+    type: "input",
+    name: "username",
+    message: "What is your GitHub user name?",
+  },
+  {
+    type: "input",
+    name: "email",
+    message: "What is your email address?",
+  },
+  {
+    type: "confirm",
+    name: "confirmLicense",
+    message: "Would you like to add a license?",
+    default: true,
+  },
+  {
+    type: "list",
+    name: "license",
+    message: "Select a license to use for this project -",
+    choices: ["MIT", "Apache", "GPL"],
+    when: ({ confirmLicense }) => {
+        if (confirmLicense) {
+            return true;
+        } else {
+            return false;
+        }
     }
+  },
+  {
+      type: 'input',
+      name: 'name',
+      message: 'Enter your name to be added to the license.',
+      when: ({ confirmLicense }) => {
+          if (confirmLicense) {
+              return true;
+          } else {
+              return false;
+          }
+      }
+
+  }
 ];
 
 let mockData = {
