@@ -1,8 +1,9 @@
-# The Project
-
+# TEST
+![Apache license badge](https://img.shields.io/badge/license-Apache-blue)
+---
 ## Description
 
-There's really a ton I could say about this project, it's very cool
+test description
 
 ## Table of Contents
 
@@ -19,19 +20,19 @@ There's really a ton I could say about this project, it's very cool
 [Questions](#questions)
 
 ## Installation
-They go to github and clone the code and then do other things
+test installation
 
 ## Usage
-You run node index.js in the console, you will be prompted to provide information about your project, then a Markdown file will be created containing the information you provided
+test usage
 
 ## License
-undefined
+Apache
 
 ## Contributing
-There are other people that deserve credit for this application. It uses the npm package inquirer
+test credits
 
 ## Tests
-There are no tests for this application
+test tests
 
 ## Questions
 You can check out my other projects on [GitHub](https://www.github.com/soundproofboot)
