@@ -781,11 +781,12 @@ ${data.description}
 
 [Usage](#usage)
 
-${renderLicenseLink(data.license)}
 
 [Contributing](#contributing)
 
 [Tests](#tests)
+
+${renderLicenseLink(data.license)}
 
 [Questions](#questions)
 
@@ -795,19 +796,18 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-${renderLicenseSection(data)}
-
 ## Contributing
 ${data.contributing}
 
 ## Tests
 ${data.tests}
 
+${renderLicenseSection(data)}
+
 ## Questions
 You can check out my other projects on [GitHub](https://www.github.com/${
     data.username
-  })
-Contact me at ${data.email} for any further questions.
+  }). Contact me at ${data.email} for any further questions.
 `;
 }
 

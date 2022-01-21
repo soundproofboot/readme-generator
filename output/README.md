@@ -1,9 +1,9 @@
-# a
+# AAAAAAAAAAA
 ![MIT license badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
 
-b
+Bbbbbbb bbbbbbbbbb bbbbbbbbbb bbbbbbbbbb
 
 ## Table of Contents
 
@@ -21,16 +21,16 @@ b
 [Questions](#questions)
 
 ## Installation
-c
+Ccccccc ccccccccc ccccccccccc ccccccccc
 
 ## Usage
-d
+Ddddddddd dddddddddd ddddddddddd ddddddddddd dddddddddddd
 
 ## Contributing
-e
+Eeeee eeeeee eeee e eeeeee
 
 ## Tests
-f
+Ff fffff fff fffffff f fffff
 
 ## License
 
@@ -46,5 +46,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 ## Questions
-You can check out my other projects on [GitHub](https://www.github.com/g)
-Contact me at h for any further questions.
+You can check out my other projects on [GitHub](https://www.github.com/soundproofboot). Contact me at colinedwinbares@gmail.com for any further questions.
