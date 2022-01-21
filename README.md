@@ -22,12 +22,29 @@ The readme generator uses the command line to prompt a user for information abou
 
 ## Installation
 First, clone the starter code from this repository. 
-
+![Repo screenshot](screenshots/repo.png)
 
 From the root directory, run npm install in the command line.
 
+![npm-install screenshot](screenshots/npm-install.png)
+
+
 ## Usage
-Open the terminal in the Develop folder. Type "node index.js" in the command line and you will be asked a series of questions about your project. Adding a license is optional, and you can select from the three most common open source licenses. After the last question is answered, a file called README.md will be created in the dist folder including all the information you entered, professionally formatted.
+Open the terminal in the Develop folder.
+
+![develop folder screenshot](screenshots/develop.png)
+
+Type "node index.js" in the command line and you will be asked a series of questions about your project.
+
+![prompts screenshot](screenshots/prompts.png)
+
+Adding a license is optional, and you can select from the three most common open source licenses. After the last question is answered you'll be alerted that your file was saved.
+
+![saved screenshot](screenshots/saved.png)
+
+A file called README.md will be created in the dist folder including all the information you entered, professionally formatted.
+
+![dist folder screenshot](screenshots/dist.png)
 
 See also: [Video Tutorial](https://drive.google.com/file/d/1kU-4xZ-ToO71tTkSMRrxbXw0maw3HcF1/view?usp=sharing)
 
