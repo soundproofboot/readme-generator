@@ -1,9 +1,9 @@
-# Project Name Goes Here
+# Title of Project
 ![MIT license badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam adipisci cum totam consequuntur. Libero officia facilis cum laborum porro consectetur pariatur voluptatibus molestiae inventore eaque, nulla dicta et obcaecati deleniti rem corrupti quis nobis aliquam quo quos incidunt ea. Accusamus doloremque culpa cum possimus porro sunt harum atque ullam voluptas.
+Description of the project
 
 ## Table of Contents
 
@@ -21,16 +21,16 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam adipisci cum totam
 [Questions](#questions)
 
 ## Installation
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam adipisci cum totam consequuntur. Libero officia facilis cum laborum porro consectetur pariatur voluptatibus molestiae inventore eaque, nulla dicta et obcaecati deleniti rem corrupti quis nobis aliquam quo quos incidunt ea. Accusamus doloremque culpa cum possimus porro sunt harum atque ullam voluptas.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatum soluta deleniti deserunt laborum. Ab perspiciatis, exercitationem repudiandae sed omnis doloremque voluptas est praesentium. Consequuntur velit possimus laboriosam ad iure. Ratione modi, itaque cumque minima tempora magnam cupiditate laudantium possimus enim quidem id. Suscipit quibusdam unde inventore ab delectus deleniti quae numquam, dicta mollitia possimus omnis saepe, porro commodi optio quidem officia id labore iure, ipsa tempora voluptatum dolorum a. Illum, cumque dolorum! Id, maxime dicta molestias animi ex adipisci.
 
 ## Usage
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam adipisci cum totam consequuntur. Libero officia facilis cum laborum porro consectetur pariatur voluptatibus molestiae inventore eaque, nulla dicta et obcaecati deleniti rem corrupti quis nobis aliquam quo quos incidunt ea. Accusamus doloremque culpa cum possimus porro sunt harum atque ullam voluptas.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatum soluta deleniti deserunt laborum. Ab perspiciatis, exercitationem repudiandae sed omnis doloremque voluptas est praesentium. Consequuntur velit possimus laboriosam ad iure. Ratione modi, itaque cumque minima tempora magnam cupiditate laudantium possimus enim quidem id. Suscipit quibusdam unde inventore ab delectus deleniti quae numquam, dicta mollitia possimus omnis saepe, porro commodi optio quidem officia id labore iure, ipsa tempora voluptatum dolorum a. Illum, cumque dolorum! Id, maxime dicta molestias animi ex adipisci.
 
 ## Contributing
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam adipisci cum totam consequuntur. Libero officia facilis cum laborum porro consectetur pariatur voluptatibus molestiae inventore eaque, nulla dicta et obcaecati deleniti rem corrupti quis nobis aliquam quo quos incidunt ea. Accusamus doloremque culpa cum possimus porro sunt harum atque ullam voluptas.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatum soluta deleniti deserunt laborum. Ab perspiciatis, exercitationem repudiandae sed omnis doloremque voluptas est praesentium. Consequuntur velit possimus laboriosam ad iure. Ratione modi, itaque cumque minima tempora magnam cupiditate laudantium possimus enim quidem id. Suscipit quibusdam unde inventore ab delectus deleniti quae numquam, dicta mollitia possimus omnis saepe, porro commodi optio quidem officia id labore iure, ipsa tempora voluptatum dolorum a. Illum, cumque dolorum! Id, maxime dicta molestias animi ex adipisci.
 
 ## Tests
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam adipisci cum totam consequuntur. Libero officia facilis cum laborum porro consectetur pariatur voluptatibus molestiae inventore eaque, nulla dicta et obcaecati deleniti rem corrupti quis nobis aliquam quo quos incidunt ea. Accusamus doloremque culpa cum possimus porro sunt harum atque ullam voluptas.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel voluptatum soluta deleniti deserunt laborum. Ab perspiciatis, exercitationem repudiandae sed omnis doloremque voluptas est praesentium. Consequuntur velit possimus laboriosam ad iure. Ratione modi, itaque cumque minima tempora magnam cupiditate laudantium possimus enim quidem id. Suscipit quibusdam unde inventore ab delectus deleniti quae numquam, dicta mollitia possimus omnis saepe, porro commodi optio quidem officia id labore iure, ipsa tempora voluptatum dolorum a. Illum, cumque dolorum! Id, maxime dicta molestias animi ex adipisci.
 
 ## License
 
